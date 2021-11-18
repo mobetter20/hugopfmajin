@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "62dfd28983dce888",
+    "type": "split",
+    "children": [
+      {
+        "id": "67aafeb86ba9acc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mergers.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7239fd035755a1c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f65758bb3ccec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a498d8a8308b666",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57dbdbf2ffd11ace",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e18681b546d354cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1289b70615743275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab978ad914ca8607",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mergers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "67aafeb86ba9acc6",
+  "lastOpenFiles": [
+    "mergers.md",
+    "business-sales.md",
+    "business-advisory.md",
+    "accounting.md"
+  ]
+}

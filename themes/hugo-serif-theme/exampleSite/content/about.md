@@ -3,48 +3,11 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+ **Copywriter - Localization Manager - Blogger**
 
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## 왜 영문 카피라이터?
+1. 한국에서 온 기업, 레퍼런스가 없는 기업은 웹사이트가 첫인상이자 모든 인상입니다. Clear, Concrete, Creative한 카피라이팅으로 세계 시장 등단을 또렷히 말하세요 
+2. 어색한 문구, 문법만의 문제가 아닙니다. 불피요한 어휘, 불분명한 문장은 번역이 아닌 작문이 필요합니다. 
+3. 문화적 차이 완벽한 문법에서도 느껴집니다. 혹시 About 페이지에서 창업자 대학, 일반적 이념, 모두를 위한 비젼 얘기하고 계신가요? 한국 정서가 항상 통하는 것은 아닙니다.
+4. 완벽한 문법이면 완벽한 카피라이팅일까요? 틀린 점 없는 카피 = 좋은 카피가 아닙니다. 분명하고 설득력있는 카피는 글쓰기에서 부터 시작합니다.
+5. 조사부터 기획까지 어떤 단어가 시장에서 쓰이는지, 구글에 어떤 단어가 가장 먼저 나오는지 아시나요? 어휘 선택의 차이, 시장에서 쓰이는 약어를 아는 차이 드러납니다.
