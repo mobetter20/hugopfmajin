@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Linkein",
+        "link": "https://www.linkedin.com/in/ajin-im-201500216/",
+        "image": "images/social/linkedin.svg"
+    },
+    {
+        "name": "Portfolio",
+        "link": "https://ajin.im",
+        "image": "images/social/ajin.svg"
+    }
+]
