@@ -14,5 +14,5 @@ Speaking English..어렵습니다. Pitching in English... 더 어렵습니다. �
 
 ## English Pitch Delivery Coaching
 
-발음3 순위. 내용 2순위. 자신감 1순위로 가치를 전달할 수 있도록 English
+국가를 뛰어넘 가치를 전달할 수 있도록 자신감-내용-스피치 연결한 English
 Pitching Delivery 코칭
