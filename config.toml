@@ -32,8 +32,8 @@ theme = "hugo-serif-theme"
 #[params.team]
 #summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
-  [params.footer]
-    copyright_text = 'Copyright © Ajin Im 2021 '
+[params.footer]
+copyright_text = 'Copyright © Jin 2021 '
 
 [menu]
   # Main Menu
