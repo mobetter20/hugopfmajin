@@ -6,7 +6,7 @@ draft: false
 weight: 2
 ---
 
-Speaking English..어렵습니다. Pitching in English... 더 어렵습니다. 자신감을 가지고 가치를 전달할 수 있도록 영문 pitch deck 재가공과 delivery 코칭
+Speaking English..어렵습니다. Pitching in English... 더 어렵습니다. 자신감을 가지고 가치를 전달할 수 있도록 영문 pitch deck 재가공과 delivery 코칭 함께 합니다.
 
 ## English Pitch Deck Creation
 
